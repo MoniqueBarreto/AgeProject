@@ -1,0 +1,54 @@
+body{
+    background: rgb(153,50,204);
+    font: normal 15pt Arial;
+
+}
+
+header{
+    color: bisque;
+    text-align: center;
+}
+
+section {
+    border-radius: 10px;
+    background: white;
+    padding: 15px;
+    width:500px ;
+    margin:auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    text-align: center;
+
+}
+
+img#foto {
+    border-radius: 50%;
+    width: 325px;
+    height: 325px;
+    margin: 20px;
+}
+
+input[type="button"] {
+    font: 10pt Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    background: rgb(230,230,250);
+    padding: 10px 30px 10px 30px;
+    cursor:pointer;
+    
+
+}
+ 
+input[type="number"] {
+    padding: 3px 3px 3px 3px;
+
+}
+
+footer{
+    color: bisque;
+    text-align: center;
+    font-style: italic;
+}
+
+
+
+
+
